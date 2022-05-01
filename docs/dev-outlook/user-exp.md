@@ -2,7 +2,7 @@
 sidebar_label: User Experience
 sidebar_position: 2
 ---
-# Imporvements for better User Experience
+# Improvements for better User Experience
 
 ## User Experience
 Besides the limitation of the block gas limit cap, the other major factor that can impact BSC capacity is the rate of fork. Fork and re-organization of the blockchain can be very costly for both validators and fullnode.
