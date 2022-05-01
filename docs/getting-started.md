@@ -27,7 +27,7 @@ network for the assets
 **For traders**, you can:
 
 - [Propose to create trading pairs](beaconchain/list_instruction.md) between two different tokens
-- [Send orders](beaconchain/learn/trading-interface.md) to buy or sell assets through trading pairs created on the chain with[SDK](beaconchain/exchange-integration.md#sdks)
+- [Send orders](beaconchain/learn/trading-interface.md) to buy or sell assets through trading pairs created on the chain with [SDK](beaconchain/exchange-integration.md#sdks)
 - [Watch the DEX market](beaconchain/develop/api-reference/dex-api/paths.md#apiv1markets) to confirm price and market activity of certain assets
 
 **For developers**, you can also:
