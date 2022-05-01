@@ -10,7 +10,7 @@ We recommend reading this document entirely before using BNB Chain so that you c
 You can find a general overview of BNB Chain [here](bnbIntro). It will be useful in understanding similarities and differences between BNB Chain and other platforms.
 
 ## BNB Chain: Beacon Chain and BNB Smart Chain
-BNB Chain is composed of two blockchains - Beacon Chain (BC) and BNB Smart Chain (BSC). The [Beacon Chain](learn/beaconIntro.md) is the blockchain component that is responsible for the governance of the BNB Chain and manages staking and voting on the BNB Chain. Whereas, the [BNB Smart Chain](learn/intro.md) is the blokchain component that is EVM compatible, consensus layers, and with hubs to multi-chains.
+BNB Chain is composed of two blockchains - Beacon Chain (BC) and BNB Smart Chain (BSC). The [Beacon Chain](learn/beaconIntro.md) is the blockchain component that is responsible for the governance of the BNB Chain and manages staking and voting on the BNB Chain, while [BNB Smart Chain](learn/intro.md) is the blockchain component that is EVM compatible, with consensus layers and hubs to multi-chains.
 
 ### What can you do with Beacon Chain(BC)?
 The purpose of the Beacon Chain is to provide an efficient blockchain ecosystem that works along a DEX to provide an alternative marketplace for issuing and exchanging digital assets in a decentralized manner.
